@@ -1,6 +1,6 @@
 # Projeto Labook
 
-O Labook é uma rede social que tem como objetivo promover a interação entre usuários, permitindo a criação, edição, exclusão, visualização, curtidas e descurtidas em publicações..<br>
+O Labook é uma rede social que tem como objetivo promover a interação entre usuários, permitindo a criação, edição, exclusão, visualização, curtidas e descurtidas em publicações.<br>
 
 ## Conteúdos abordados
 
