@@ -195,17 +195,6 @@ Só quem criou o post pode deletá-lo. Admins podem deletar o post de qualquer p
 // status 200 OK
 ```
 
-### Para entender a tabela likes_dislikes
-
-- no SQLite, lógicas booleanas devem ser controladas via 0 e 1 (INTEGER)
-- quando like valer 1 na tabela é porque a pessoa deu like no post
-  - na requisição like é true
-- quando like valor 0 na tabela é porque a pessoa deu dislike no post
-  - na requisição like é false
-- caso não exista um registro na tabela de relação, é porque a pessoa não deu like nem dislike
-- caso dê like em um post que já tenha dado like, o like é removido (deleta o item da tabela)
-- caso dê dislike em um post que já tenha dado dislike, o dislike é removido (deleta o item da tabela)
-
 ## Documentação Postman
 
 https://documenter.getpostman.com/view/28314331/2s9YeK5WC6
