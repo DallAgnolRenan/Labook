@@ -79,16 +79,6 @@ Instruções de Instalação
   - [ ] Arquitetura em camadas
   - [ ] Roteadores no Express
 
-## Métodos
-
-Requisições para a API devem seguir os padrões:
-| Método | Descrição |
-|---|---|
-| `GET` | Retorna informações de um ou mais registros. |
-| `POST` | Utilizado para criar um novo registro ou acesso a Login. |
-| `PUT` | Atualiza dados de um registro ou altera sua situação. |
-| `DELETE` | Remove um registro do sistema. |
-
 ## Signup
 
 Endpoint público utilizado para cadastro. Devolve um token jwt.
