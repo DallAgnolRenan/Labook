@@ -215,4 +215,4 @@ Caso dê um dislike em um post que tenha dado like, o dislike sobrescreve o like
 
 ## Documentação Postman
 
-![Documentação]https://documenter.getpostman.com/view/28314331/2s9YeK5WC6
+https://documenter.getpostman.com/view/28314331/2s9YeK5WC6
