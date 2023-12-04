@@ -27,16 +27,16 @@ https://documenter.getpostman.com/view/28314331/2s9YeK5WC6
 
 Installation Instructions
 
-1. Clone the repository.
-2. In NPM package manager run:
+1. Clone o repositório.
+2. No gerenciador de pacotes NPM, execute:
 
   ```sh
   npm i
   ```
   
-3. Create your own file `file-name.db` on folder `database`.
-4. Open the file `labook.sql` and run the table creation commands.
-5. Create a file called `.env` in the root of the project to place these environment variables.
+3. Crie seu arquivo `file-name.db` na pasta `database`.
+4. Abra o arquivo `labook.sql` e execute os comandos de criação de tabelas.
+5. Crie um arquivo chamado `.env` na raiz do projeto para armazenar as variáveis de ambiente listadas abaixo.
 
   ```sh
   
