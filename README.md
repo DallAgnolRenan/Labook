@@ -21,6 +21,37 @@ O Labook é uma rede social que tem como objetivo promover a interação entre u
 
 ![projeto-labook (2)](https://user-images.githubusercontent.com/29845719/216036534-2b3dfb48-7782-411a-bffd-36245b78594e.png)
 
+Installation Instructions
+
+1. Clone the repository.
+2. In NPM package manager run:
+
+  ```sh
+  npm i
+  ```
+  
+3. Create your own file `file-name.db` on folder `database`.
+4. Open the file `labook.sql` and run the table creation commands.
+5. Create a file called `.env` in the root of the project to place these environment variables.
+
+  ```sh
+  
+  #Express Port
+  PORT=3003
+  #SQLite database file path
+  DB_FILE_PATH=./src/database/file-name.db
+  #Credentials and secret keys
+  JWT_KEY=chose-a-secret-key
+  #Token expiration time (exemple: 1 day)
+  JWT_EXPIRES_IN=1d
+  ```
+  
+6. Run the server.
+  
+  ```sh
+  npm run dev
+  ```
+
 # Lista de requisitos
 
 - Endpoints
