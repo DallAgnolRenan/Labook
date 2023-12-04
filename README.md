@@ -21,6 +21,10 @@ O Labook é uma rede social que tem como objetivo promover a interação entre u
 
 ![projeto-labook (2)](https://user-images.githubusercontent.com/29845719/216036534-2b3dfb48-7782-411a-bffd-36245b78594e.png)
 
+## Documentação Postman
+
+https://documenter.getpostman.com/view/28314331/2s9YeK5WC6
+
 Installation Instructions
 
 1. Clone the repository.
@@ -225,7 +229,3 @@ Só quem criou o post pode deletá-lo. Admins podem deletar o post de qualquer p
 // response
 // status 200 OK
 ```
-
-## Documentação Postman
-
-https://documenter.getpostman.com/view/28314331/2s9YeK5WC6
